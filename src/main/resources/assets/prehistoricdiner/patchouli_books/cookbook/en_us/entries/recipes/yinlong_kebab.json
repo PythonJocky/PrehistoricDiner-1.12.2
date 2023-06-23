@@ -1,0 +1,15 @@
+{
+	"name": "Yinlong Kebab",
+	"icon": "prehistoricdiner:yinlong_kebab",
+	"category": "prehistoricdiner:general",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Recipe submitted by PythonJocky$(br2)Saturation: 4$(br)Hunger: 5"
+		},
+		{
+			"type": "crafting",
+			"recipe": "prehistoricdiner:yinlong_kebab"
+		}
+	]
+}

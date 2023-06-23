@@ -32,7 +32,7 @@ public class RegistrationHandler {
                 ((Item)(new ItemFood(1, 1F, false)).setRegistryName("prehistoricdiner", "jam_umaltolepis")).setTranslationKey("prehistoricdiner.jam_umaltolepis").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
                 ((Item)(new ItemFood(3, 1F, false)).setRegistryName("prehistoricdiner", "grilled_fish_skewer")).setTranslationKey("prehistoricdiner.grilled_fish_skewer").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
                 ((Item)(new ItemFood(9, 6F, false)).setRegistryName("prehistoricdiner", "mushroom_fern_coelophysis")).setTranslationKey("prehistoricdiner.mushroom_fern_coelophysis").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
-
+                ((Item)(new ItemFood(5, 4F, false)).setRegistryName("prehistoricdiner", "yinlong_kebab")).setTranslationKey("prehistoricdiner.yinlong_kebab").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),
 
                 //Non edible Ingredient Items:
                 ((Item)(new Item()).setRegistryName("prehistoricdiner", "flour")).setTranslationKey("prehistoricdiner.flour").setCreativeTab(PrehistoricDiner.CREATIVE_TAB),

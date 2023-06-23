@@ -34,7 +34,7 @@ public class ModelRegistrationHandler {
         registerModel(ModItems.jam_trichopitys, 0);
         registerModel(ModItems.jam_umaltolepis, 0);
         registerModel(ModItems.mushroom_fern_coelophysis, 0);
-
+        registerModel(ModItems.yinlong_kebab, 0);
 
         //Non Edible Ingredient Items:
         registerModel(ModItems.flour, 0);

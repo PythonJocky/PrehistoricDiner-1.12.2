@@ -1,0 +1,26 @@
+{
+  "group": "prehistoricdiner",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    " 4 ",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "item": "lepidodendron:yinlong_raw"
+
+    },
+    "4": {
+      "type": "forge:ore_dict",
+      "ore": "stickWood"
+    },
+    "8": {
+      "item": "prehistoricdiner:fiddlehead"
+    }
+  },
+  "result": {
+    "item": "prehistoricdiner:yinlong_kebab",
+    "count": 1
+  }
+}

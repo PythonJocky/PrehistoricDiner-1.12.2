@@ -20,7 +20,7 @@ public class ModItems {
     public static final Item jam_trichopitys = null;
     public static final Item jam_umaltolepis = null;
     public static final Item mushroom_fern_coelophysis = null;
-
+    public static final Item yinlong_kebab = null;
 
 
 
